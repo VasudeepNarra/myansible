@@ -1,0 +1,29 @@
+---
+- myStudents:
+  - name: vasu 
+    phoneno: 9490778732
+    address: 
+      - doorno: 101
+      - streetno: vittalrao nagar
+      - pincode: 500081
+
+  - name: praveena
+    phoneno: 7095671681
+    address: 
+        - doorno: 101
+        - streetno: vittalrao nagar
+        - pincode: 500081
+
+  - name: bhargav
+    phoneno: 8187802081
+    address: 
+            - doorno: 101
+            - streetno: vittalrao nagar
+            - pincode: 500081
+
+  - name: kumari
+    phoneno:
+    address:
+     - doorno: 101
+     - streetno: vittalrao nagar
+     - pincode: 500081
