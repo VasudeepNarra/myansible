@@ -1,0 +1,4 @@
+[group]
+host1 java8
+host2 java9
+host3 java11
