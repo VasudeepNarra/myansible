@@ -12,3 +12,8 @@
     copy:
       src:  myindex.html
       dest: /var/www/html/index.html
+
+  - name: copy myindex.j2 file into nodes site
+    copy:
+      src:  myindex.j2
+      dest: /var/www/html/index.html
